@@ -1,6 +1,6 @@
 # UR5 Inverse Kinematics with Newton-Raphson Method
 
-Inverse kinematics of the UR5 industrial robot using the Newton-Raphson method. of the UR5 robot in the CoppeliaSim simulator.
+Inverse kinematics of the UR5 industrial robot using the Newton-Raphson method. The project demonstrates the iterative process of convergence and includes a visualization of the UR5 robot in the CoppeliaSim simulator.
 
 ## Project Overview
 
